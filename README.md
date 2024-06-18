@@ -1,2 +1,5 @@
-# Sistema-de-biblioteca-basico-php-8-y-mysql
+Repositorio Git Configurado:
+
+Repositorio de código creado y configurado.
+Estructura básica del proyecto establecida.
 
