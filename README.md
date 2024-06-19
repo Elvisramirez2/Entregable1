@@ -1,5 +1,1 @@
-Repositorio Git Configurado:
-
-Repositorio de código creado y configurado.
-Estructura básica del proyecto establecida.
-
+Proyecto de Desarrollo de Sistema de Gestión de Biblioteca en línea (SGBL)
